@@ -22,7 +22,7 @@ numeric_features = ['Age','CityTier','DurationOfPitch','NumberOfPersonVisiting',
 
 # List of categorical features in the dataset
 categorical_features = [
-   'TypeofContact','Occupation','Gender','ProductPitched','MaritalStatus ','Designation'
+   'TypeofContact','Occupation','Gender','ProductPitched','MaritalStatus','Designation'
 ]
 
 # Define predictor matrix (X) using selected numeric and categorical features
